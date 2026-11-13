@@ -20,7 +20,7 @@ for a product, so ordering can be more accurate.
 ## What did I learn / what was the result?
 - How to build, train, and evaluate a supervised machine learning model
 - How model accuracy translates into real supply chain decisions
-- [Add your result here, e.g. "The model predicted demand with an MAE of X units"]
+- How to use past sales data to predict future demand
 
 ## How to run it
 1. Open `demand_prediction.ipynb` in Jupyter or Google Colab
